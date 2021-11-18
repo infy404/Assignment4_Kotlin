@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment_4_Ashish_Shrijan</string>
+
+    <string name="login"> Login </string>
+    <string name="Register"> Register </string>
+    <string name="Username"> Username </string>
+    <string name="Password"> Password </string>
+    <string name="FirstName">First Name </string>
+    <string name="LastName"> Last Name </string>
+    <string name="Address">Address</string>
+    <string name="City">City</string>
+    <string name="postalCode"> Postal Code </string>
+    <string name="Telephone"> Telephone </string>
+    <string name="Email"> Email </string>
+
+</resources>
